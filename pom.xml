@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://52.207.221.46:8081/repository/jenkins/</url>
+            <url>http://54.210.163.230:8081/repository/Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://52.207.221.46:8081/repository/Jenkins-snap/</url>
+            <url>http://54.210.163.230:8081/repository/Snapshot-repo/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
